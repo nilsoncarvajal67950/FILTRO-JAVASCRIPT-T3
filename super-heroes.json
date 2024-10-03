@@ -1,0 +1,255 @@
+{
+    "DC-COMICS": [
+{
+   "super-heroe":"super-man",
+   "nombre":"Clark Joseph Kent",
+   "origen":"en el cómic Action Comics #1 (fecha de portada: junio de 1938 y publicado el 18 de abril de 1938)",
+   "habilidades":"Invulnerabilidad, super fuerza, super velocidad, vista y oído sobrehumano, aliento helado, visión térmica o infrarroja, visión de rayos X, capacidad de lanzamiento de energía a través de los ojos y capacidad de volar",
+   "imagen":"https://www.elespectador.com/resizer/v2/MWZZGQ46URFQ7BVDDWVWGUR3XA.jpg?auth=4da341a5b4cc51a6d0bf73c4cc9d939d14c3c007a04e2f81dd36bd352dc7b5ca&width=920&height=613&smart=true&quality=60"
+
+},
+{
+ "super-heroe":"Batman",
+   "nombre":"Bruce Wayne",
+   "origen":"La primera aparición de Batman fue en Detective Comics #27 y recién en Detective Comics #33 se reveló finalmente el origen del personaje.",
+   "habilidades":"Habilidades como detective. Intelecto nivel genio.​ Brillante estratega y acróbata experto. Dominio de artes marciales y técnicas de sigilo e intimidación. Escapismo. Uso de equipamiento, dispositivos y armamento de alta tecnología.",
+   "imagen":"https://www.mundodeportivo.com/alfabeta/hero/2023/09/batman.1695421537.2611.jpg?width=768&aspect_ratio=16:9"
+
+},
+{
+    "super-heroe":"Wonder-Woman",
+    "nombre":"Diana de Temyscira",
+    "origen":"Creado por el psicólogo William Moulton Marston, el personaje hizo su debut en el número ocho de All Star Comics en 1941.",
+    "habilidades":"Súper Fuerza Súper Velocidad Inmortalidad Factor de Curación Reflejos Resistencia Vuelo Habilidad de lucha altamente desarrollada Experta en combate cuerpo a cuerpo Poder hablar con los animales y en cualquier idioma de alguna persona que se encuentre",
+    "imagen":"https://static.wikia.nocookie.net/superman/images/0/04/Wonder_Woman_poderes.png/revision/latest?cb=20150427214438&path-prefix=es"
+   
+   },
+   {
+    "super-heroe":"Linterna-Verde",
+    "nombre":"Hal Jordan",
+    "origen":"Alan Scott, el primer Linterna Verde, hizo su debut en julio de 1940 en All-American Comics #16, con portada de Sheldon Moldoff, durante la Edad de oro del cómic estadounidense.",
+    "habilidades":"es semi-invulnerable, capaz de proyectar construcciones sólidas de luz, volar, y utilizar varias otros recursos a través de su anillo de poder, sólo limitados por su imaginación y fuerza de voluntad.",
+    "imagen":"https://www.mundodeportivo.com/alfabeta/hero/2023/10/captura-de-pantalla-2023-10-11-115855.png?width=768&aspect_ratio=16:9."
+   
+   },
+   {
+    "super-heroe":"Shazam",
+    "nombre":"Billy Baston",
+    "origen":"el Capitán Marvel original es el héroe que hoy se conoce como Shazam. Este último hizo su primera aparición en 1940, en las páginas de Fawcett Comics.",
+    "habilidades":"El personaje tiene las habilidades de volar, súper fuerza, invulnerabilidad y la habilidad única de disparar rayos desde su pecho .",
+    "imagen":"https://pm1.aminoapps.com/6614/294523672cc7235388728c2ea077280fa5a77751_hq.jpg"
+   },
+   {
+    "super-heroe":"Flash",
+    "nombre":"Barry Allen",
+    "origen":"“The Flash” hizo su primera aparición en Estados Unidos allá por 1940 en la edición de Flash Comics. ",
+    "habilidades":"Apodado el Corredor Escarlata, todas las encarnaciones de Flash poseen súper velocidad, que incluye la capacidad de correr, moverse y pensar extremadamente rápido, también puede atravesar la materia sólida, usar reflejos sobrehumanos y aparentemente violar ciertas leyes de la física, como superar la velocidad de la luz.",
+    "imagen":"https://static.wikia.nocookie.net/batman/images/6/6c/The_Flash.jpg/revision/latest?cb=20170402141709&path-prefix=es"
+   },
+   {
+    "super-heroe":"Nighwing",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Catwoman",
+     "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Flecha-Verde",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Batgirl",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Cyborg",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Zatanna",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Killer-Frost",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Aquaman",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   },
+   {
+    "super-heroe":"Átomo",
+    "nombre":"",
+    "origen":"",
+    "habilidades":"",
+    "imagen":""
+   
+   }
+],
+  "MARVEL-COMICS":[
+    {
+    
+        "super-heroe":"Spider-Man",
+         "nombre":"Peter Parker",
+         "origen":"introducido en el cómic Amazing Fantasy n. ° 15, publicado por Marvel Comics en agosto de 1962.",
+         "habilidades":"Fuerza, velocidad, durabilidad, agilidad, sentidos, reflejos, coordinación, equilibrio y resistencia sobrehumanos. Fisiología de la araña: Precognitiva capacidad de sentido arácnido, se aferra a la mayoría de las superficies sólidas y la capacidad de las redes. Utiliza muñequeras web para disparar material de telaraña.",
+         "imagen":"https://static.wikia.nocookie.net/spiderman/images/4/4f/Trepa_muros.png/revision/latest?cb=20131125212017&path-prefix=es"
+       },
+       {
+        "super-heroe":"Iron-Man",
+          "nombre":"Tony Stark",
+          "origen":"El 01 de marzo de 1963, Marvel Comics en la edición #39 de Tales of Suspense hace la primera aparición de Anthony Edward Tony Stark, mejor conocido como “Iron Man”",
+          "habilidades":"Superfuerza, durabilidad y resistencia por armadura. Vuelo supersónico. Repulsores de energía y misiles de proyección. Regenerativo soporte vital.",
+          "imagen":"https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/04/iron-man-vr-principal.jpg?tf=1080x"
+       
+       },
+       {
+        "super-heroe":"Capitana Marvel",
+        "nombre":"Carol Danvers",
+        "origen":"El personaje apareció por primera vez en 1968, en Marvel Súper-Héroes #13.",
+        "habilidades":" fuerza sobrehumana, poder volar y absorción de energía.",
+        "imagen":"https://www.mundodeportivo.com/alfabeta/hero/2023/11/esta-nueva-arma-de-marvel-esta-mas-alla-de-los-poderes-de-capitana-marvel.jpg?width=768&aspect_ratio=16:9"
+       
+       },
+       {
+        "super-heroe":"Thor",
+          "nombre":"Thor Odison",
+          "origen":"el personaje apareció por primera vez en Journey into Mystery # 85 (agosto de 1962) y fue creado por el dibujante Jack Kirby, el editor Stan Lee y el guionista Larry Lieber.",
+          "habilidades":"Fuerza sobrehumana, resistencia, durabilidad, velocidad, agilidad, reflejos, curación, longevidad y sentidos. Manipulación del clima y la materia. Manipulación de energía.",
+          "imagen":"https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/90268/98622/Marvel-Avengers-Thor-Official-Lifesize-Cardboard-Cutout-buy-now-at-starstills__87358.1693997069.jpg?c=2&imbypass=on"
+       
+       },
+       {
+        "super-heroe":"Hulk",
+          "nombre":"Bruce Banner",
+          "origen":"ulk debutó en el número 1 de la colección de cómics The Incredible Hulk (mayo de 1962), con guion de Stan Lee, dibujo de Jack Kirby y entintado de Paul Reinman. En la primera historieta",
+          "habilidades":"el aumento exponencial de fuerza o mas bien el aumento exponencial de sus habilidades físicas, por que así como aumenta su fuerza, aumenta también sus demás atributos físicos, siendo más fuerte, más resistente, más inmune y más rápido.",
+          "imagen":"https://sm.ign.com/t/ign_latam/screenshot/default/hulk-inmortal_cxnp.1280.jpg"
+       
+       },
+       {
+        "super-heroe":"Black Widow",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Wolverine",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Capitán América",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Deadpool",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Doctor Strange",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Nick Fury",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Groot",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Soldado de Invierno",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Star-Lord",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       },
+       {
+        "super-heroe":"Falcon",
+          "nombre":"",
+          "origen":"",
+          "habilidades":"",
+          "apariciones en el cine":"",
+          "curiosidades":""
+       
+       }
+ ]
+}
+
